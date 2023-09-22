@@ -10,11 +10,9 @@ I'm accredited by Basketball NSW as a statistician. It's one of the ways I'm inv
 
 ### My experience (I update this page regularly)
 
-#### Norths Basketball Association - Women's Senior Premier League
+| Competition | Games |
+|-------------|-------|
+|     Norths Basketball Association - Women's Senior Premier League        |   24    |
+| NBL1 East Women - Manly Warringa | 2 |
 
-24 games 2023
-
-#### NBL1 East Women - Manly Warringa
-
-2 games (quarter and semi finals) 2023
 
