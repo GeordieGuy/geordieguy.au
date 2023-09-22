@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geordie Guy</title>
+    <link>https://geordieguy.au/</link>
+    <description>Recent content on Geordie Guy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-AU</language>
+    <copyright>&amp;copy;2023 Geordie Guy</copyright>
+    <lastBuildDate>Thu, 23 Mar 2023 11:19:53 +1100</lastBuildDate><atom:link href="https://geordieguy.au/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logging Off</title>
+      <link>https://geordieguy.au/logging-off.html</link>
+      <pubDate>Fri, 24 Mar 2023 13:19:16 +1100</pubDate>
+      
+      <guid>https://geordieguy.au/logging-off.html</guid>
+      <description>I wrote this on the 12th of November 2015 On this day in 1984 my parents brought home my baby sister. Roughly this day, today’s her birthday but I think despite my dramatic beginning to this story she actually came home a few days after November 12th, because there were some slight complications and she spent a few days in a humidity crib. One way or the other today is her birthday.</description>
+    </item>
+    
+    <item>
+      <title>Colophon</title>
+      <link>https://geordieguy.au/colophon.html</link>
+      <pubDate>Fri, 24 Mar 2023 10:39:43 +1100</pubDate>
+      
+      <guid>https://geordieguy.au/colophon.html</guid>
+      <description>This site is authored in markdown and compliled to static pages with Hugo. The theme is a Split Template by One Page Love
+I use Visual Sudio Code and Github Desktop to author this on my 2019 Macbook Pro (I still have an eGPU so I&amp;rsquo;m still on Intel.) I use a mix of Firefox, Safari and Orion browsers so I test the site on those.
+The site has no tracking, there is no Google Analytics or other JS tracking.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://geordieguy.au/bio.html</link>
+      <pubDate>Thu, 23 Mar 2023 11:13:16 +1100</pubDate>
+      
+      <guid>https://geordieguy.au/bio.html</guid>
+      <description>Hey There. My name is Geordie - that&amp;rsquo;s actually my name, not a nickname or a short form. I&amp;rsquo;m a cloud computing and digital technology consultant in Sydney, Australia. I&amp;rsquo;m a massive fan of basketball and have been a member of the Sydney Kings for over a decade. I love cooking of all sorts, and pretengineering or tinkering and making.
+GPG: 7600A82C5B3E0E7152FE4A903F0A0F80703CCEB7</description>
+    </item>
+    
+  </channel>
+</rss>

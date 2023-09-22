@@ -1,0 +1,113 @@
+# Site settings
+baseURL = "https://geordieguy.au/"
+languageCode = "en-AU"
+title = "Geordie Guy"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "sitemap"]
+
+# Local preview mode
+relativeURLs = true
+uglyURLs = true
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2023 Geordie Guy"
+
+[params]
+
+# Metadata for search engines and social sharing
+author = "Geordie Guy"
+description = "Geordie is a nerd, basketball fan, papist and foodie from Sydney, Australia."
+shareImage = "images/social.jpg"
+[params.custom.css]
+enable = true
+
+# Favicon
+favicon = "favicon.ico"
+
+# Section - Visual
+[params.visual]
+
+# Image
+[params.visual.image]
+enable = true
+file = "images/background.jpg"
+position = "center center"
+
+# Video
+[params.visual.video]
+enable = false
+mute = true
+file = "videos/background.mp4"
+# youtubeId = "dk9uNWPP7EA"
+
+# Links
+#
+# Links List #1
+[[params.links]]
+
+# Links List #2
+[[params.links]]
+[params.links.list1]
+heading = "Social"
+
+[[params.links.list1.link]]
+text = "Mastodon"
+url = "https://aus.social/@geordie"
+
+[[params.links.list1.link]]
+text = "Keybase"
+url = "https://keybase.io/geordie"
+
+[[params.links.list1.link]]
+text = "Pixelfed"
+url = "https://pixelfed.au/geordie"
+
+[[params.links.list1.link]]
+text = "Github"
+url = "https://github.com/GeordieGuy"
+
+[[params.links.list1.link]]
+text = "Photography"
+url = "https://geordieguy.smugmug.com/My-Homepage-Slideshow"
+
+[[params.links.list1.link]]
+text = "LinkedIn"
+url = "https://www.linkedin.com/in/geordieasaservice/"
+
+
+[[params.links]]
+[params.links.list2]
+heading = "My Links"
+
+[[params.links.list2.link]]
+text = "My 3D Designs"
+url = "https://www.thingiverse.com/geordieguy/designs"
+
+# Links List #3
+[[params.links]]
+[params.links.list3]
+heading = "Personal"
+
+[[params.links.list3.link]]
+text = "About Me"
+url = "bio.html"
+
+[[params.links.list3.link]]
+text = "Vimeo"
+url = "https://vimeo.com/user1242660"
+
+[[params.links.list3.link]]
+text = "Logging Off"
+url = "logging-off.html"
+
+[[params.links.list3.link]]
+text = "Colophon"
+url = "colophon.html"
+
+# The original template is released under the Creative Commons Attribution 3.0 License.
+# Please keep the original attribution link when using for your own project.
+# If you'd like to use the template without the attribution, you can check out
+# the license option via the template author's website: https://onepagelove.com/split
