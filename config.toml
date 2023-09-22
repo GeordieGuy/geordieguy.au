@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://nice-glacier-0ce581700.3.azurestaticapps.net"
+baseURL = "https://geordieguy.au"
 languageCode = "en-AU"
 title = "Geordie Guy"
 theme = "hugo-split-theme"
