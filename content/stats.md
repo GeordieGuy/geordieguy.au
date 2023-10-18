@@ -12,7 +12,7 @@ I'm accredited by Basketball NSW as a statistician. It's one of the ways I'm inv
 
 | Competition | Games |
 |-------------|-------|
-|     NSBA - Women's Senior Premier League        |   29    |
+|     NSBA - Women's Senior Premier        |   29    |
 | NBL1 East Women - Manly Warringa | 2 |
 
 
