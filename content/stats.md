@@ -12,7 +12,7 @@ I'm accredited by Basketball NSW as a statistician. It's one of the ways I'm inv
 
 | Competition | Games |
 |-------------|-------|
-|     Norths Basketball Association - Women's Senior Premier League        |   23    |
+|     Norths Basketball Association - Women's Senior Premier League        |   29    |
 | NBL1 East Women - Manly Warringa | 2 |
 
 
