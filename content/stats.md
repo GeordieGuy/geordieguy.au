@@ -11,8 +11,8 @@ I'm accredited by Basketball NSW as a statistician. It's one of the ways I'm inv
 ## My experience (I update this page regularly)
 
 | Competition | Games |
-|---------------|--------------|
-| NSBA - Women's Senior Premier | 29 |
+|----------------------|--------------|
+| NSBA - Women's Senior Premier | 32 |
 | NBL1 East Women - Manly Warringa | 2 |
 
 
