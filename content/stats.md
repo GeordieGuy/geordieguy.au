@@ -12,7 +12,7 @@ I'm accredited by Basketball NSW as a statistician. It's one of the ways I'm inv
 
 | Competition | Games |
 |----------------------|--------------|
-| NSBA - Women's Premier | 32 |
+| NSBA - Women's Premier | 47 |
 | NBL1 East Women - Manly  | 2 |
 
 
