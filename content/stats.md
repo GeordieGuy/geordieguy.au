@@ -14,7 +14,7 @@ I'm accredited by Basketball NSW as a statistician. It's one of the ways I'm inv
 1 game
 
 ### NSBA - Women's Premier
-59 games
+63 games
 
 ### NBL1 East Women - Manly
 2 games
